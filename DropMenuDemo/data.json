@@ -1,0 +1,3058 @@
+{
+    "code": "200",
+    "msg": "产品分类",
+    "data": {
+        "far_catid": [
+                      {
+                      "catid": "1",
+                      "catname": "猪产品",
+                      "sub": [
+                              {
+                              "catid": "1",
+                              "catname": "不限",
+                              "parentid": "1",
+                              "son": ""
+                              },
+                              {
+                              "catid": "139",
+                              "catname": "猪精肉",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "148",
+                              "catname": "猪膘类",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "155",
+                              "catname": "猪段类",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "156",
+                                      "catname": "猪中方",
+                                      "parentid": "155"
+                                      },
+                                      {
+                                      "catid": "157",
+                                      "catname": "猪带皮前段",
+                                      "parentid": "155"
+                                      },
+                                      {
+                                      "catid": "158",
+                                      "catname": "猪带皮中段",
+                                      "parentid": "155"
+                                      },
+                                      {
+                                      "catid": "159",
+                                      "catname": "猪带皮后段",
+                                      "parentid": "155"
+                                      },
+                                      {
+                                      "catid": "160",
+                                      "catname": "猪去皮前段",
+                                      "parentid": "155"
+                                      },
+                                      {
+                                      "catid": "161",
+                                      "catname": "猪去皮中段",
+                                      "parentid": "155"
+                                      },
+                                      {
+                                      "catid": "162",
+                                      "catname": "猪去皮后段",
+                                      "parentid": "155"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "163",
+                              "catname": "猪白条",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "164",
+                                      "catname": "猪红条",
+                                      "parentid": "163"
+                                      },
+                                      {
+                                      "catid": "165",
+                                      "catname": "猪白条",
+                                      "parentid": "163"
+                                      },
+                                      {
+                                      "catid": "166",
+                                      "catname": "猪皮条",
+                                      "parentid": "163"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "167",
+                              "catname": "猪五花",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "168",
+                                      "catname": "猪带皮五花",
+                                      "parentid": "167"
+                                      },
+                                      {
+                                      "catid": "169",
+                                      "catname": "猪去皮五花",
+                                      "parentid": "167"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "170",
+                              "catname": "猪碎肉",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "171",
+                                      "catname": "猪精碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "174",
+                                      "catname": "2比8猪碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "175",
+                                      "catname": "3比7猪碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "176",
+                                      "catname": "4比6猪碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "177",
+                                      "catname": "5比5猪碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "178",
+                                      "catname": "6比4猪碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "179",
+                                      "catname": "7比3猪碎肉",
+                                      "parentid": "170"
+                                      },
+                                      {
+                                      "catid": "180",
+                                      "catname": "8比2猪碎肉",
+                                      "parentid": "170"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "181",
+                              "catname": "猪槽头",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "182",
+                                      "catname": "猪带皮槽头",
+                                      "parentid": "181"
+                                      },
+                                      {
+                                      "catid": "183",
+                                      "catname": "猪去皮槽头",
+                                      "parentid": "181"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "199",
+                              "catname": "猪肘类",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "200",
+                                      "catname": "猪前肘",
+                                      "parentid": "199"
+                                      },
+                                      {
+                                      "catid": "201",
+                                      "catname": "猪后肘",
+                                      "parentid": "199"
+                                      },
+                                      {
+                                      "catid": "202",
+                                      "catname": "猪肘圈",
+                                      "parentid": "199"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "203",
+                              "catname": "猪蹄",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "204",
+                                      "catname": "猪手",
+                                      "parentid": "203"
+                                      },
+                                      {
+                                      "catid": "205",
+                                      "catname": "猪脚",
+                                      "parentid": "203"
+                                      },
+                                      {
+                                      "catid": "2473",
+                                      "catname": "猪脚圈",
+                                      "parentid": "203"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "206",
+                              "catname": "猪头",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "207",
+                                      "catname": "猪带耳整头",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "208",
+                                      "catname": "猪去耳整头",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "209",
+                                      "catname": "带耳劈半猪头",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "210",
+                                      "catname": "去耳劈半猪头",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "211",
+                                      "catname": "猪面具",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "212",
+                                      "catname": "猪拱嘴",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "213",
+                                      "catname": "猪耳朵",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "214",
+                                      "catname": "猪耳根",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "215",
+                                      "catname": "猪口条",
+                                      "parentid": "206"
+                                      },
+                                      {
+                                      "catid": "2474",
+                                      "catname": "猪天梯",
+                                      "parentid": "206"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "216",
+                              "catname": "猪骨类",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "217",
+                                      "catname": "猪带颈前排",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "218",
+                                      "catname": "猪去颈前排",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "219",
+                                      "catname": "猪小排",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "220",
+                                      "catname": "猪精肋排",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "221",
+                                      "catname": "猪月亮骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "222",
+                                      "catname": "猪前节骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "223",
+                                      "catname": "猪后棒骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "225",
+                                      "catname": "猪带肉脊骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "226",
+                                      "catname": "猪单边脊骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "227",
+                                      "catname": "猪叉尾骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "228",
+                                      "catname": "猪千斤骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "229",
+                                      "catname": "猪尾骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "230",
+                                      "catname": "猪颈骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "231",
+                                      "catname": "猪肉板骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "232",
+                                      "catname": "猪胸软骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "236",
+                                      "catname": "猪翅骨边",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "237",
+                                      "catname": "猪脊骨边",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "238",
+                                      "catname": "猪带肉前腿骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "239",
+                                      "catname": "猪带肉后腿骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "240",
+                                      "catname": "猪健肉前腿骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "241",
+                                      "catname": "猪健肉后腿骨",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "242",
+                                      "catname": "猪大排",
+                                      "parentid": "216"
+                                      },
+                                      {
+                                      "catid": "243",
+                                      "catname": "背脊骨",
+                                      "parentid": "216"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "264",
+                              "catname": "猪皮类",
+                              "parentid": "1",
+                              "son": [
+                                      {
+                                      "catid": "265",
+                                      "catname": "猪脊皮",
+                                      "parentid": "264"
+                                      },
+                                      {
+                                      "catid": "266",
+                                      "catname": "猪大皮",
+                                      "parentid": "264"
+                                      },
+                                      {
+                                      "catid": "267",
+                                      "catname": "猪碎皮",
+                                      "parentid": "264"
+                                      },
+                                      {
+                                      "catid": "268",
+                                      "catname": "猪腹皮",
+                                      "parentid": "264"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "269",
+                              "catname": "猪副产品",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "1796",
+                              "catname": "生猪",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2478",
+                              "catname": "猪肚",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2479",
+                              "catname": "猪肠",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2480",
+                              "catname": "猪腰",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2481",
+                              "catname": "猪三管",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2482",
+                              "catname": "猪尾巴",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2483",
+                              "catname": "猪喉头",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2484",
+                              "catname": "猪脑花",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2485",
+                              "catname": "猪隔膜",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2486",
+                              "catname": "猪健肉",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2487",
+                              "catname": "猪排类",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2488",
+                              "catname": "猪心肝肺",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2489",
+                              "catname": "猪耳口条",
+                              "parentid": "1",
+                              "son": []
+                              },
+                              {
+                              "catid": "2490",
+                              "catname": "其它产品",
+                              "parentid": "1",
+                              "son": []
+                              }
+                              ]
+                      },
+                      {
+                      "catid": "4",
+                      "catname": "牛产品",
+                      "sub": [
+                              {
+                              "catid": "4",
+                              "catname": "不限",
+                              "parentid": "4",
+                              "son": ""
+                              },
+                              {
+                              "catid": "461",
+                              "catname": "牛肉类",
+                              "parentid": "4",
+                              "son": [
+                                      {
+                                      "catid": "462",
+                                      "catname": "牛眼肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "463",
+                                      "catname": "牛颈肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "464",
+                                      "catname": "牛下肩胛肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "465",
+                                      "catname": "牛胸肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "466",
+                                      "catname": "牛肉排",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "467",
+                                      "catname": "牛前四分腹肋",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "468",
+                                      "catname": "牛上后采脊臂",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "469",
+                                      "catname": "牛上肩胛肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "470",
+                                      "catname": "牛西冷",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "471",
+                                      "catname": "牛细腹肋肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "472",
+                                      "catname": "牛腹肋肉排",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "473",
+                                      "catname": "牛粗横肌",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "474",
+                                      "catname": "牛粗腹肋肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "476",
+                                      "catname": "牛上后腿肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "477",
+                                      "catname": "牛腱",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "478",
+                                      "catname": "牛米龙",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "977",
+                                      "catname": "牛肉砖",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "978",
+                                      "catname": "牛肉卷",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "979",
+                                      "catname": "牛碎肉",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "2436",
+                                      "catname": "牛腩",
+                                      "parentid": "461"
+                                      },
+                                      {
+                                      "catid": "2462",
+                                      "catname": "牛霖",
+                                      "parentid": "461"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "494",
+                              "catname": "牛骨类",
+                              "parentid": "4",
+                              "son": [
+                                      {
+                                      "catid": "495",
+                                      "catname": "牛带肉前腿骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "496",
+                                      "catname": "牛带肉后腿骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "497",
+                                      "catname": "牛带肉颈骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "498",
+                                      "catname": "牛带肉脊骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "499",
+                                      "catname": "牛带肉肋排骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "500",
+                                      "catname": "牛带肉尾骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "501",
+                                      "catname": "牛带肉叉骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "502",
+                                      "catname": "牛带肉板骨",
+                                      "parentid": "494"
+                                      },
+                                      {
+                                      "catid": "506",
+                                      "catname": "牛仔骨",
+                                      "parentid": "494"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "2526",
+                              "catname": "全牛",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2527",
+                              "catname": "肥牛",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2528",
+                              "catname": "牛头",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2529",
+                              "catname": "牛舌",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2530",
+                              "catname": "牛肚",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2531",
+                              "catname": "牛肠",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2532",
+                              "catname": "牛杂",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2533",
+                              "catname": "里脊",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2534",
+                              "catname": "肩胛",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2535",
+                              "catname": "牛肩",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2536",
+                              "catname": "牛排",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2537",
+                              "catname": "上脑",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2538",
+                              "catname": "牛腩",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2539",
+                              "catname": "牛腱",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2540",
+                              "catname": "眼肉",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2541",
+                              "catname": "米龙",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2542",
+                              "catname": "牛柳",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2543",
+                              "catname": "牛霖",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2544",
+                              "catname": "牛百叶",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2545",
+                              "catname": "牛脖肉",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2546",
+                              "catname": "牛肋排",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2547",
+                              "catname": "宝乐肩",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2548",
+                              "catname": "脐橙板",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2549",
+                              "catname": "牛仔骨",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2550",
+                              "catname": "牛筋类",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2551",
+                              "catname": "牛油类",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2552",
+                              "catname": "臀(砧)肉",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2553",
+                              "catname": "腰/宝/鞭",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2554",
+                              "catname": "心/肝/肺",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2555",
+                              "catname": "四/六分体",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2556",
+                              "catname": "前胸/后胸",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2557",
+                              "catname": "针扒/尾扒",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2558",
+                              "catname": "碎肉/肉末",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2559",
+                              "catname": "牛蹄/牛尾",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2560",
+                              "catname": "其他产品",
+                              "parentid": "4",
+                              "son": []
+                              },
+                              {
+                              "catid": "2650",
+                              "catname": "数据备份",
+                              "parentid": "4",
+                              "son": []
+                              }
+                              ]
+                      },
+                      {
+                      "catid": "5",
+                      "catname": "羊产品",
+                      "sub": [
+                              {
+                              "catid": "5",
+                              "catname": "不限",
+                              "parentid": "5",
+                              "son": ""
+                              },
+                              {
+                              "catid": "510",
+                              "catname": "羊肉类",
+                              "parentid": "5",
+                              "son": [
+                                      {
+                                      "catid": "511",
+                                      "catname": "羊后腱子肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "512",
+                                      "catname": "羊前腱肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "513",
+                                      "catname": "羊后腿肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "514",
+                                      "catname": "羊前腿肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "515",
+                                      "catname": "羊腩",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "516",
+                                      "catname": "羊外脊",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "517",
+                                      "catname": "羊上脑",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "518",
+                                      "catname": "羊颈肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "519",
+                                      "catname": "羊里脊肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "520",
+                                      "catname": "羊胸肉",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "521",
+                                      "catname": "羊黄瓜条",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "522",
+                                      "catname": "羊腹肋",
+                                      "parentid": "510"
+                                      },
+                                      {
+                                      "catid": "2466",
+                                      "catname": "羊肉卷",
+                                      "parentid": "510"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "523",
+                              "catname": "羊副产品",
+                              "parentid": "5",
+                              "son": [
+                                      {
+                                      "catid": "524",
+                                      "catname": "羊肝",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "525",
+                                      "catname": "羊心",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "526",
+                                      "catname": "羊肺",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "527",
+                                      "catname": "羊肚",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "528",
+                                      "catname": "羊舌",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "529",
+                                      "catname": "羊大肠",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "530",
+                                      "catname": "羊小肠",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "531",
+                                      "catname": "羊蹄",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "532",
+                                      "catname": "羊尾巴",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "533",
+                                      "catname": "羊脸肉",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "534",
+                                      "catname": "其他副产品",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "2461",
+                                      "catname": "羊油",
+                                      "parentid": "523"
+                                      },
+                                      {
+                                      "catid": "2471",
+                                      "catname": "羊腰",
+                                      "parentid": "523"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "535",
+                              "catname": "羊骨类",
+                              "parentid": "5",
+                              "son": [
+                                      {
+                                      "catid": "536",
+                                      "catname": "羊板骨",
+                                      "parentid": "535"
+                                      },
+                                      {
+                                      "catid": "537",
+                                      "catname": "羊肋排",
+                                      "parentid": "535"
+                                      },
+                                      {
+                                      "catid": "538",
+                                      "catname": "羊脊骨",
+                                      "parentid": "535"
+                                      },
+                                      {
+                                      "catid": "539",
+                                      "catname": "羊尾叉骨",
+                                      "parentid": "535"
+                                      },
+                                      {
+                                      "catid": "540",
+                                      "catname": "羊颈骨",
+                                      "parentid": "535"
+                                      },
+                                      {
+                                      "catid": "541",
+                                      "catname": "羊带肉前腿骨",
+                                      "parentid": "535"
+                                      },
+                                      {
+                                      "catid": "542",
+                                      "catname": "羊带肉后腿骨",
+                                      "parentid": "535"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "1790",
+                              "catname": "活羊",
+                              "parentid": "5",
+                              "son": [
+                                      {
+                                      "catid": "1791",
+                                      "catname": "山羊",
+                                      "parentid": "1790"
+                                      },
+                                      {
+                                      "catid": "1792",
+                                      "catname": "绵羊",
+                                      "parentid": "1790"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "1793",
+                              "catname": "羊胴体",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2440",
+                              "catname": "羊筋类",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2507",
+                              "catname": "上脑",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2508",
+                              "catname": "羊排",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2509",
+                              "catname": "羊腿",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2510",
+                              "catname": "肉串",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2511",
+                              "catname": "羊头",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2512",
+                              "catname": "羊脖",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2513",
+                              "catname": "羊蹄",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2514",
+                              "catname": "羊板肉",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2515",
+                              "catname": "纽约克",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2516",
+                              "catname": "羊霖肉",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2517",
+                              "catname": "羊碎肉",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2518",
+                              "catname": "羊脊骨",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2519",
+                              "catname": "羊菲力",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2520",
+                              "catname": "四/六分体",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2521",
+                              "catname": "肉卷/排卷",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2522",
+                              "catname": "腰/宝/鞭",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2523",
+                              "catname": "羊后腿包",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2524",
+                              "catname": "其他产品",
+                              "parentid": "5",
+                              "son": []
+                              },
+                              {
+                              "catid": "2525",
+                              "catname": "羊油类",
+                              "parentid": "5",
+                              "son": []
+                              }
+                              ]
+                      },
+                      {
+                      "catid": "6",
+                      "catname": "鸡产品",
+                      "sub": [
+                              {
+                              "catid": "6",
+                              "catname": "不限",
+                              "parentid": "6",
+                              "son": ""
+                              },
+                              {
+                              "catid": "284",
+                              "catname": "鸡胸",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "285",
+                                      "catname": "鸡单冻带皮大胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "286",
+                                      "catname": "鸡单冻去皮大胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "287",
+                                      "catname": "鸡袋装去皮大胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "288",
+                                      "catname": "鸡二级大/小胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "289",
+                                      "catname": "鸡单冻小胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "290",
+                                      "catname": "鸡袋装小胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "291",
+                                      "catname": "板冻大胸",
+                                      "parentid": "284"
+                                      },
+                                      {
+                                      "catid": "292",
+                                      "catname": "板冻小胸",
+                                      "parentid": "284"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "293",
+                              "catname": "鸡翅",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "294",
+                                      "catname": "鸡全翅",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "295",
+                                      "catname": "鸡二节翅",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "296",
+                                      "catname": "鸡翅根",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "297",
+                                      "catname": "鸡翅中",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "298",
+                                      "catname": "鸡单冻翅尖",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "299",
+                                      "catname": "鸡二级翅根",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "300",
+                                      "catname": "鸡二级翅中",
+                                      "parentid": "293"
+                                      },
+                                      {
+                                      "catid": "301",
+                                      "catname": "鸡二级翅尖",
+                                      "parentid": "293"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "302",
+                              "catname": "鸡腿",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "303",
+                                      "catname": "鸡边腿",
+                                      "parentid": "302"
+                                      },
+                                      {
+                                      "catid": "304",
+                                      "catname": "鸡排腿",
+                                      "parentid": "302"
+                                      },
+                                      {
+                                      "catid": "305",
+                                      "catname": "二级鸡边腿",
+                                      "parentid": "302"
+                                      },
+                                      {
+                                      "catid": "306",
+                                      "catname": "二级鸡排腿",
+                                      "parentid": "302"
+                                      },
+                                      {
+                                      "catid": "307",
+                                      "catname": "鸡单冻琵琶腿",
+                                      "parentid": "302"
+                                      },
+                                      {
+                                      "catid": "308",
+                                      "catname": "鸡板冻琵琶腿",
+                                      "parentid": "302"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "309",
+                              "catname": "鸡爪",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "310",
+                                      "catname": "鸡爪（大）",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "311",
+                                      "catname": "鸡爪（中）",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "312",
+                                      "catname": "鸡爪（小）",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "313",
+                                      "catname": "鸡凤爪（大）",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "314",
+                                      "catname": "鸡凤爪（中）",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "315",
+                                      "catname": "鸡凤爪（小）",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "316",
+                                      "catname": "鸡花爪",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "317",
+                                      "catname": "鸡断爪/灰爪",
+                                      "parentid": "309"
+                                      },
+                                      {
+                                      "catid": "318",
+                                      "catname": "鸡风根",
+                                      "parentid": "309"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "319",
+                              "catname": "白条鸡",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "320",
+                                      "catname": "白条鸡",
+                                      "parentid": "319"
+                                      },
+                                      {
+                                      "catid": "321",
+                                      "catname": "三黄鸡",
+                                      "parentid": "319"
+                                      },
+                                      {
+                                      "catid": "322",
+                                      "catname": "老母鸡",
+                                      "parentid": "319"
+                                      },
+                                      {
+                                      "catid": "323",
+                                      "catname": "中装鸡",
+                                      "parentid": "319"
+                                      },
+                                      {
+                                      "catid": "324",
+                                      "catname": "西装鸡",
+                                      "parentid": "319"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "325",
+                              "catname": "鸡骨",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "326",
+                                      "catname": "鸡叉骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "327",
+                                      "catname": "鸡爪骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "328",
+                                      "catname": "鸡胸软骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "329",
+                                      "catname": "鸡长骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "330",
+                                      "catname": "鸡短骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "331",
+                                      "catname": "鸡膝软骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "332",
+                                      "catname": "鸡腿软骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "333",
+                                      "catname": "鸡长腿骨",
+                                      "parentid": "325"
+                                      },
+                                      {
+                                      "catid": "334",
+                                      "catname": "鸡锁骨",
+                                      "parentid": "325"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "336",
+                              "catname": "鸡内脏",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "337",
+                                      "catname": "鸡心",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "338",
+                                      "catname": "鸡肝",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "339",
+                                      "catname": "鸡脾脏",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "340",
+                                      "catname": "鸡腺胃",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "341",
+                                      "catname": "鸡肺",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "342",
+                                      "catname": "单冻鸡肫",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "343",
+                                      "catname": "带腺胃鸡肫",
+                                      "parentid": "336"
+                                      },
+                                      {
+                                      "catid": "344",
+                                      "catname": "其他鸡内脏",
+                                      "parentid": "336"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "345",
+                              "catname": "鸡头",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "346",
+                                      "catname": "带皮脖",
+                                      "parentid": "345"
+                                      },
+                                      {
+                                      "catid": "347",
+                                      "catname": "去皮脖",
+                                      "parentid": "345"
+                                      },
+                                      {
+                                      "catid": "348",
+                                      "catname": "鸡头",
+                                      "parentid": "345"
+                                      },
+                                      {
+                                      "catid": "349",
+                                      "catname": "带脖鸡头",
+                                      "parentid": "345"
+                                      },
+                                      {
+                                      "catid": "358",
+                                      "catname": "二级鸡脖",
+                                      "parentid": "345"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "350",
+                              "catname": "鸡架",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "351",
+                                      "catname": "鸡全架",
+                                      "parentid": "350"
+                                      },
+                                      {
+                                      "catid": "352",
+                                      "catname": "大胸架",
+                                      "parentid": "350"
+                                      },
+                                      {
+                                      "catid": "353",
+                                      "catname": "小胸架",
+                                      "parentid": "350"
+                                      },
+                                      {
+                                      "catid": "354",
+                                      "catname": "去头架",
+                                      "parentid": "350"
+                                      },
+                                      {
+                                      "catid": "355",
+                                      "catname": "去脖架",
+                                      "parentid": "350"
+                                      },
+                                      {
+                                      "catid": "356",
+                                      "catname": "鸡去锁骨半架",
+                                      "parentid": "350"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "359",
+                              "catname": "鸡腿胸肉",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "360",
+                                      "catname": "鸡去皮去骨腿肉",
+                                      "parentid": "359"
+                                      },
+                                      {
+                                      "catid": "361",
+                                      "catname": "快餐鸡腿肉",
+                                      "parentid": "359"
+                                      },
+                                      {
+                                      "catid": "362",
+                                      "catname": "鸡腿精肉",
+                                      "parentid": "359"
+                                      },
+                                      {
+                                      "catid": "363",
+                                      "catname": "鸡腿碎肉",
+                                      "parentid": "359"
+                                      },
+                                      {
+                                      "catid": "364",
+                                      "catname": "鸡胸肉块",
+                                      "parentid": "359"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "365",
+                              "catname": "鸡丝/块",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "366",
+                                      "catname": "鸡丝",
+                                      "parentid": "365"
+                                      },
+                                      {
+                                      "catid": "367",
+                                      "catname": "鸡丁",
+                                      "parentid": "365"
+                                      },
+                                      {
+                                      "catid": "368",
+                                      "catname": "鸡块",
+                                      "parentid": "365"
+                                      },
+                                      {
+                                      "catid": "369",
+                                      "catname": "鸡肉片",
+                                      "parentid": "365"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "370",
+                              "catname": "鸡原料碎肉块",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "371",
+                                      "catname": "鸡胸碎肉",
+                                      "parentid": "370"
+                                      },
+                                      {
+                                      "catid": "372",
+                                      "catname": "鸡带皮胸肉块",
+                                      "parentid": "370"
+                                      },
+                                      {
+                                      "catid": "373",
+                                      "catname": "鸡去皮胸肉块",
+                                      "parentid": "370"
+                                      },
+                                      {
+                                      "catid": "374",
+                                      "catname": "鸡腿碎肉",
+                                      "parentid": "370"
+                                      },
+                                      {
+                                      "catid": "375",
+                                      "catname": "鸡腹膜肉",
+                                      "parentid": "370"
+                                      },
+                                      {
+                                      "catid": "376",
+                                      "catname": "鸡软骨碎肉",
+                                      "parentid": "370"
+                                      },
+                                      {
+                                      "catid": "377",
+                                      "catname": "鸡腿肉丁",
+                                      "parentid": "370"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "378",
+                              "catname": "鸡油类",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "379",
+                                      "catname": "鸡油",
+                                      "parentid": "378"
+                                      },
+                                      {
+                                      "catid": "380",
+                                      "catname": "腿油",
+                                      "parentid": "378"
+                                      },
+                                      {
+                                      "catid": "381",
+                                      "catname": "鸡肫油",
+                                      "parentid": "378"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "382",
+                              "catname": "快餐类鸡腿肉",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "383",
+                                      "catname": "70-80鸡腿肉",
+                                      "parentid": "382"
+                                      },
+                                      {
+                                      "catid": "384",
+                                      "catname": "75-85鸡腿肉",
+                                      "parentid": "382"
+                                      },
+                                      {
+                                      "catid": "385",
+                                      "catname": "85-95鸡腿肉",
+                                      "parentid": "382"
+                                      },
+                                      {
+                                      "catid": "386",
+                                      "catname": "90-105鸡腿肉",
+                                      "parentid": "382"
+                                      },
+                                      {
+                                      "catid": "387",
+                                      "catname": "其他型号鸡腿肉",
+                                      "parentid": "382"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "388",
+                              "catname": "鸡其他类",
+                              "parentid": "6",
+                              "son": [
+                                      {
+                                      "catid": "389",
+                                      "catname": "鸡尾",
+                                      "parentid": "388"
+                                      },
+                                      {
+                                      "catid": "390",
+                                      "catname": "鸡气管",
+                                      "parentid": "388"
+                                      },
+                                      {
+                                      "catid": "391",
+                                      "catname": "鸡苦胆",
+                                      "parentid": "388"
+                                      },
+                                      {
+                                      "catid": "392",
+                                      "catname": "鸡内金",
+                                      "parentid": "388"
+                                      },
+                                      {
+                                      "catid": "393",
+                                      "catname": "鸡肛",
+                                      "parentid": "388"
+                                      },
+                                      {
+                                      "catid": "394",
+                                      "catname": "鸡软骨球",
+                                      "parentid": "388"
+                                      },
+                                      {
+                                      "catid": "395",
+                                      "catname": "鸡爪皮",
+                                      "parentid": "388"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "1794",
+                              "catname": "活鸡",
+                              "parentid": "6",
+                              "son": []
+                              },
+                              {
+                              "catid": "2491",
+                              "catname": "鸡脖",
+                              "parentid": "6",
+                              "son": []
+                              },
+                              {
+                              "catid": "2492",
+                              "catname": "鸡骨架",
+                              "parentid": "6",
+                              "son": []
+                              },
+                              {
+                              "catid": "2493",
+                              "catname": "其他产品",
+                              "parentid": "6",
+                              "son": []
+                              }
+                              ]
+                      },
+                      {
+                      "catid": "7",
+                      "catname": "鸭产品",
+                      "sub": [
+                              {
+                              "catid": "7",
+                              "catname": "不限",
+                              "parentid": "7",
+                              "son": ""
+                              },
+                              {
+                              "catid": "396",
+                              "catname": "鸭头",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "397",
+                                      "catname": "鸭头（9只）",
+                                      "parentid": "396"
+                                      },
+                                      {
+                                      "catid": "398",
+                                      "catname": "鸭头（10只）",
+                                      "parentid": "396"
+                                      },
+                                      {
+                                      "catid": "399",
+                                      "catname": "鸭头（8只）",
+                                      "parentid": "396"
+                                      },
+                                      {
+                                      "catid": "400",
+                                      "catname": "二级鸭头",
+                                      "parentid": "396"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "401",
+                              "catname": "鸭脖",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "402",
+                                      "catname": "鸭脖（7根）",
+                                      "parentid": "401"
+                                      },
+                                      {
+                                      "catid": "403",
+                                      "catname": "鸭脖（6根）",
+                                      "parentid": "401"
+                                      },
+                                      {
+                                      "catid": "404",
+                                      "catname": "鸭脖（5根）",
+                                      "parentid": "401"
+                                      },
+                                      {
+                                      "catid": "405",
+                                      "catname": "二级鸭脖",
+                                      "parentid": "401"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "406",
+                              "catname": "鸭翅",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "407",
+                                      "catname": "鸭全翅",
+                                      "parentid": "406"
+                                      },
+                                      {
+                                      "catid": "408",
+                                      "catname": "鸭二节翅",
+                                      "parentid": "406"
+                                      },
+                                      {
+                                      "catid": "409",
+                                      "catname": "鸭翅根",
+                                      "parentid": "406"
+                                      },
+                                      {
+                                      "catid": "410",
+                                      "catname": "鸭翅中",
+                                      "parentid": "406"
+                                      },
+                                      {
+                                      "catid": "411",
+                                      "catname": "鸭翅尖",
+                                      "parentid": "406"
+                                      },
+                                      {
+                                      "catid": "412",
+                                      "catname": "鸭二级二节翅",
+                                      "parentid": "406"
+                                      },
+                                      {
+                                      "catid": "413",
+                                      "catname": "二级鸭翅根",
+                                      "parentid": "406"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "414",
+                              "catname": "鸭腿",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "415",
+                                      "catname": "鸭排腿",
+                                      "parentid": "414"
+                                      },
+                                      {
+                                      "catid": "416",
+                                      "catname": "鸭边腿",
+                                      "parentid": "414"
+                                      },
+                                      {
+                                      "catid": "417",
+                                      "catname": "二级鸭边腿",
+                                      "parentid": "414"
+                                      },
+                                      {
+                                      "catid": "418",
+                                      "catname": "二级鸭腿",
+                                      "parentid": "414"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "419",
+                              "catname": "鸭掌",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "422",
+                                      "catname": "大鸭掌",
+                                      "parentid": "419"
+                                      },
+                                      {
+                                      "catid": "423",
+                                      "catname": "小鸭掌",
+                                      "parentid": "419"
+                                      },
+                                      {
+                                      "catid": "424",
+                                      "catname": "二级鸭掌",
+                                      "parentid": "419"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "425",
+                              "catname": "白条鸭",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "426",
+                                      "catname": "白条鸭",
+                                      "parentid": "425"
+                                      },
+                                      {
+                                      "catid": "427",
+                                      "catname": "二级白条鸭",
+                                      "parentid": "425"
+                                      },
+                                      {
+                                      "catid": "428",
+                                      "catname": "半片鸭",
+                                      "parentid": "425"
+                                      },
+                                      {
+                                      "catid": "429",
+                                      "catname": "二级半片鸭",
+                                      "parentid": "425"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "430",
+                              "catname": "鸭胸",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "431",
+                                      "catname": "带皮鸭胸",
+                                      "parentid": "430"
+                                      },
+                                      {
+                                      "catid": "432",
+                                      "catname": "去皮鸭大胸",
+                                      "parentid": "430"
+                                      },
+                                      {
+                                      "catid": "433",
+                                      "catname": "鸭小胸",
+                                      "parentid": "430"
+                                      },
+                                      {
+                                      "catid": "434",
+                                      "catname": "鸭胸肉卷",
+                                      "parentid": "430"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "435",
+                              "catname": "鸭皮油类",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "436",
+                                      "catname": "鸭脖皮",
+                                      "parentid": "435"
+                                      },
+                                      {
+                                      "catid": "437",
+                                      "catname": "鸭胸皮",
+                                      "parentid": "435"
+                                      },
+                                      {
+                                      "catid": "438",
+                                      "catname": "鸭碎皮",
+                                      "parentid": "435"
+                                      },
+                                      {
+                                      "catid": "439",
+                                      "catname": "鸭板油",
+                                      "parentid": "435"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "440",
+                              "catname": "鸭副产品",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "441",
+                                      "catname": "鸭肫",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "442",
+                                      "catname": "鸭心",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "443",
+                                      "catname": "鸭肝",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "444",
+                                      "catname": "鸭肠",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "445",
+                                      "catname": "鸭食管",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "446",
+                                      "catname": "鸭气管",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "447",
+                                      "catname": "鸭腺胃",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "448",
+                                      "catname": "鸭食管带腺胃",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "449",
+                                      "catname": "大鸭舌",
+                                      "parentid": "440"
+                                      },
+                                      {
+                                      "catid": "450",
+                                      "catname": "小鸭舌",
+                                      "parentid": "440"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "451",
+                              "catname": "鸭其他产品",
+                              "parentid": "7",
+                              "son": [
+                                      {
+                                      "catid": "452",
+                                      "catname": "鸭锁骨",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "453",
+                                      "catname": "鸭壳",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "454",
+                                      "catname": "鸭软骨",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "455",
+                                      "catname": "二级鸭软骨",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "456",
+                                      "catname": "鸭半壳",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "457",
+                                      "catname": "鸭尾",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "458",
+                                      "catname": "鸭精肉",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "459",
+                                      "catname": "鸭碎肉",
+                                      "parentid": "451"
+                                      },
+                                      {
+                                      "catid": "460",
+                                      "catname": "鸭爪皮",
+                                      "parentid": "451"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "1795",
+                              "catname": "活鸭",
+                              "parentid": "7",
+                              "son": []
+                              },
+                              {
+                              "catid": "2494",
+                              "catname": "鸭舌",
+                              "parentid": "7",
+                              "son": []
+                              },
+                              {
+                              "catid": "2495",
+                              "catname": "鸭骨架",
+                              "parentid": "7",
+                              "son": []
+                              },
+                              {
+                              "catid": "2496",
+                              "catname": "鸭内脏",
+                              "parentid": "7",
+                              "son": []
+                              },
+                              {
+                              "catid": "2497",
+                              "catname": "其他产品",
+                              "parentid": "7",
+                              "son": []
+                              }
+                              ]
+                      },
+                      {
+                      "catid": "8",
+                      "catname": "水产品",
+                      "sub": [
+                              {
+                              "catid": "8",
+                              "catname": "不限",
+                              "parentid": "8",
+                              "son": ""
+                              },
+                              {
+                              "catid": "566",
+                              "catname": "冻水产品",
+                              "parentid": "8",
+                              "son": [
+                                      {
+                                      "catid": "950",
+                                      "catname": "淡水鱼类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "951",
+                                      "catname": "淡水虾类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "952",
+                                      "catname": "淡水贝类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "953",
+                                      "catname": "淡水蟹类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "954",
+                                      "catname": "淡水龟鳖类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "955",
+                                      "catname": "淡水其他产品",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "956",
+                                      "catname": "冷冻海水鱼类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "957",
+                                      "catname": "冷冻海水虾类",
+                                      "parentid": "566"
+                                      },
+                                      {
+                                      "catid": "960",
+                                      "catname": "其他冷冻海水产品",
+                                      "parentid": "566"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "567",
+                              "catname": "鲜活水产品",
+                              "parentid": "8",
+                              "son": [
+                                      {
+                                      "catid": "961",
+                                      "catname": "淡水鱼",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "962",
+                                      "catname": "淡水虾",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "963",
+                                      "catname": "淡水贝",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "964",
+                                      "catname": "淡水蟹",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "965",
+                                      "catname": "其他鲜活淡水产品",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "966",
+                                      "catname": "海水鱼",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "967",
+                                      "catname": "海水虾",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "968",
+                                      "catname": "海水贝类",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "969",
+                                      "catname": "海水蟹",
+                                      "parentid": "567"
+                                      },
+                                      {
+                                      "catid": "970",
+                                      "catname": "其他鲜活海水产品",
+                                      "parentid": "567"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "949",
+                              "catname": "水产加工品",
+                              "parentid": "8",
+                              "son": [
+                                      {
+                                      "catid": "972",
+                                      "catname": "虾类加工品",
+                                      "parentid": "949"
+                                      },
+                                      {
+                                      "catid": "973",
+                                      "catname": "鱼类加工品",
+                                      "parentid": "949"
+                                      },
+                                      {
+                                      "catid": "974",
+                                      "catname": "贝类加工品",
+                                      "parentid": "949"
+                                      },
+                                      {
+                                      "catid": "975",
+                                      "catname": "其他水产加工产品",
+                                      "parentid": "949"
+                                      }
+                                      ]
+                              },
+                              {
+                              "catid": "2498",
+                              "catname": "淡水鱼类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2499",
+                              "catname": "海水鱼类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2500",
+                              "catname": "淡水虾类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2501",
+                              "catname": "海水虾类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2502",
+                              "catname": "淡水蟹类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2503",
+                              "catname": "海水蟹类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2504",
+                              "catname": "淡水贝类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2505",
+                              "catname": "海水贝类",
+                              "parentid": "8",
+                              "son": []
+                              },
+                              {
+                              "catid": "2506",
+                              "catname": "其他产品",
+                              "parentid": "8",
+                              "son": []
+                              }
+                              ]
+                      },
+                      {
+                      "catid": "1805",
+                      "catname": "其它肉类",
+                      "sub": [
+                              {
+                              "catid": "1805",
+                              "catname": "不限",
+                              "parentid": "1805",
+                              "son": ""
+                              },
+                              {
+                              "catid": "1806",
+                              "catname": "驴产品",
+                              "parentid": "1805",
+                              "son": []
+                              },
+                              {
+                              "catid": "1807",
+                              "catname": "鹅产品",
+                              "parentid": "1805",
+                              "son": []
+                              },
+                              {
+                              "catid": "1808",
+                              "catname": "虫产品",
+                              "parentid": "1805",
+                              "son": []
+                              },
+                              {
+                              "catid": "1809",
+                              "catname": "鸟产品",
+                              "parentid": "1805",
+                              "son": []
+                              },
+                              {
+                              "catid": "1810",
+                              "catname": "珍禽野味",
+                              "parentid": "1805",
+                              "son": []
+                              },
+                              {
+                              "catid": "1812",
+                              "catname": "马产品",
+                              "parentid": "1805",
+                              "son": []
+                              }
+                              ]
+                      }
+                      ],
+        "sub_area": [
+                     {
+                     "areaid": "1",
+                     "areaname": "北京"
+                     },
+                     {
+                     "areaid": "2",
+                     "areaname": "上海"
+                     },
+                     {
+                     "areaid": "3",
+                     "areaname": "天津"
+                     },
+                     {
+                     "areaid": "4",
+                     "areaname": "重庆"
+                     },
+                     {
+                     "areaid": "5",
+                     "areaname": "河北"
+                     },
+                     {
+                     "areaid": "6",
+                     "areaname": "山西"
+                     },
+                     {
+                     "areaid": "7",
+                     "areaname": "内蒙古"
+                     },
+                     {
+                     "areaid": "8",
+                     "areaname": "辽宁"
+                     },
+                     {
+                     "areaid": "9",
+                     "areaname": "吉林"
+                     },
+                     {
+                     "areaid": "10",
+                     "areaname": "黑龙江"
+                     },
+                     {
+                     "areaid": "11",
+                     "areaname": "江苏"
+                     },
+                     {
+                     "areaid": "12",
+                     "areaname": "浙江"
+                     },
+                     {
+                     "areaid": "13",
+                     "areaname": "安徽"
+                     },
+                     {
+                     "areaid": "14",
+                     "areaname": "福建"
+                     },
+                     {
+                     "areaid": "15",
+                     "areaname": "江西"
+                     },
+                     {
+                     "areaid": "16",
+                     "areaname": "山东"
+                     },
+                     {
+                     "areaid": "17",
+                     "areaname": "河南"
+                     },
+                     {
+                     "areaid": "18",
+                     "areaname": "湖北"
+                     },
+                     {
+                     "areaid": "19",
+                     "areaname": "湖南"
+                     },
+                     {
+                     "areaid": "20",
+                     "areaname": "广东"
+                     },
+                     {
+                     "areaid": "21",
+                     "areaname": "广西"
+                     },
+                     {
+                     "areaid": "22",
+                     "areaname": "海南"
+                     },
+                     {
+                     "areaid": "23",
+                     "areaname": "四川"
+                     },
+                     {
+                     "areaid": "24",
+                     "areaname": "贵州"
+                     },
+                     {
+                     "areaid": "25",
+                     "areaname": "云南"
+                     },
+                     {
+                     "areaid": "26",
+                     "areaname": "西藏"
+                     },
+                     {
+                     "areaid": "27",
+                     "areaname": "陕西"
+                     },
+                     {
+                     "areaid": "28",
+                     "areaname": "甘肃"
+                     },
+                     {
+                     "areaid": "29",
+                     "areaname": "青海"
+                     },
+                     {
+                     "areaid": "30",
+                     "areaname": "宁夏"
+                     },
+                     {
+                     "areaid": "31",
+                     "areaname": "新疆"
+                     },
+                     {
+                     "areaid": "32",
+                     "areaname": "台湾"
+                     },
+                     {
+                     "areaid": "33",
+                     "areaname": "香港"
+                     },
+                     {
+                     "areaid": "34",
+                     "areaname": "澳门"
+                     }
+                     ],
+        "sub_retail": [
+                       {
+                       "id": 0,
+                       "name": "不限"
+                       },
+                       {
+                       "id": 3,
+                       "name": "整柜交易"
+                       },
+                       {
+                       "id": 2,
+                       "name": "零售批发"
+                       }
+                       ],
+        "sub_chandi": [
+                       {
+                       "0": "0",
+                       "1": "中国",
+                       "areaid": "0",
+                       "areaname": "中国"
+                       },
+                       {
+                       "0": "\r\n1",
+                       "1": "德国",
+                       "areaid": "1",
+                       "areaname": "德国"
+                       },
+                       {
+                       "0": "\r\n2",
+                       "1": "丹麦",
+                       "areaid": "2",
+                       "areaname": "丹麦"
+                       },
+                       {
+                       "0": "\r\n3",
+                       "1": "西班牙",
+                       "areaid": "3",
+                       "areaname": "西班牙"
+                       },
+                       {
+                       "0": "\r\n4",
+                       "1": "荷兰",
+                       "areaid": "4",
+                       "areaname": "荷兰"
+                       },
+                       {
+                       "0": "\r\n5",
+                       "1": "英国",
+                       "areaid": "5",
+                       "areaname": "英国"
+                       },
+                       {
+                       "0": "\r\n6",
+                       "1": "美国",
+                       "areaid": "6",
+                       "areaname": "美国"
+                       },
+                       {
+                       "0": "\r\n7",
+                       "1": "法国",
+                       "areaid": "7",
+                       "areaname": "法国"
+                       },
+                       {
+                       "0": "\r\n8",
+                       "1": "爱尔兰",
+                       "areaid": "8",
+                       "areaname": "爱尔兰"
+                       },
+                       {
+                       "0": "\r\n9",
+                       "1": "新西兰",
+                       "areaid": "9",
+                       "areaname": "新西兰"
+                       },
+                       {
+                       "0": "\r\n10",
+                       "1": "智利",
+                       "areaid": "10",
+                       "areaname": "智利"
+                       },
+                       {
+                       "0": "\r\n11",
+                       "1": "阿根廷",
+                       "areaid": "11",
+                       "areaname": "阿根廷"
+                       },
+                       {
+                       "0": "\r\n12",
+                       "1": "乌拉圭",
+                       "areaid": "12",
+                       "areaname": "乌拉圭"
+                       },
+                       {
+                       "0": "\r\n13",
+                       "1": "加拿大",
+                       "areaid": "13",
+                       "areaname": "加拿大"
+                       },
+                       {
+                       "0": "\r\n14",
+                       "1": "澳大利亚",
+                       "areaid": "14",
+                       "areaname": "澳大利亚"
+                       },
+                       {
+                       "0": "\r\n15",
+                       "1": "巴西",
+                       "areaid": "15",
+                       "areaname": "巴西"
+                       },
+                       {
+                       "0": "\r\n16",
+                       "1": "墨西哥",
+                       "areaid": "16",
+                       "areaname": "墨西哥"
+                       },
+                       {
+                       "0": "\r\n17",
+                       "1": "印度",
+                       "areaid": "17",
+                       "areaname": "印度"
+                       },
+                       {
+                       "0": "\r\n18",
+                       "1": "缅甸",
+                       "areaid": "18",
+                       "areaname": "缅甸"
+                       },
+                       {
+                       "0": "\r\n19",
+                       "1": "巴基斯坦",
+                       "areaid": "19",
+                       "areaname": "巴基斯坦"
+                       },
+                       {
+                       "0": "\r\n20",
+                       "1": "印尼",
+                       "areaid": "20",
+                       "areaname": "印尼"
+                       },
+                       {
+                       "0": "\r\n21",
+                       "1": "马来西亚",
+                       "areaid": "21",
+                       "areaname": "马来西亚"
+                       },
+                       {
+                       "0": "\r\n22",
+                       "1": "西非",
+                       "areaid": "22",
+                       "areaname": "西非"
+                       },
+                       {
+                       "0": "\r\n23",
+                       "1": "乌克兰",
+                       "areaid": "23",
+                       "areaname": "乌克兰"
+                       },
+                       {
+                       "0": "\r\n24",
+                       "1": "俄罗斯",
+                       "areaid": "24",
+                       "areaname": "俄罗斯"
+                       },
+                       {
+                       "0": "\r\n25",
+                       "1": "哈萨克斯坦",
+                       "areaid": "25",
+                       "areaname": "哈萨克斯坦"
+                       },
+                       {
+                       "0": "\r\n26",
+                       "1": "比利时",
+                       "areaid": "26",
+                       "areaname": "比利时"
+                       },
+                       {
+                       "0": "\r\n27",
+                       "1": "挪威",
+                       "areaid": "27",
+                       "areaname": "挪威"
+                       },
+                       {
+                       "0": "\r\n28",
+                       "1": "英国",
+                       "areaid": "28",
+                       "areaname": "英国"
+                       },
+                       {
+                       "0": "\r\n29",
+                       "1": "爱尔兰",
+                       "areaid": "29",
+                       "areaname": "爱尔兰"
+                       },
+                       {
+                       "0": "\r\n30",
+                       "1": "苏格兰",
+                       "areaid": "30",
+                       "areaname": "苏格兰"
+                       },
+                       {
+                       "0": "\r\n31",
+                       "1": "法罗群岛",
+                       "areaid": "31",
+                       "areaname": "法罗群岛"
+                       },
+                       {
+                       "0": "\r\n32",
+                       "1": "冰岛",
+                       "areaid": "32",
+                       "areaname": "冰岛"
+                       },
+                       {
+                       "0": "\r\n33",
+                       "1": "韩国",
+                       "areaid": "33",
+                       "areaname": "韩国"
+                       },
+                       {
+                       "0": "\r\n34",
+                       "1": "日本",
+                       "areaid": "34",
+                       "areaname": "日本"
+                       },
+                       {
+                       "0": "\r\n35",
+                       "1": "加拿大",
+                       "areaid": "35",
+                       "areaname": "加拿大"
+                       },
+                       {
+                       "0": "\r\n36",
+                       "1": "厄瓜多尔",
+                       "areaid": "36",
+                       "areaname": "厄瓜多尔"
+                       },
+                       {
+                       "0": "\r\n37",
+                       "1": "越南",
+                       "areaid": "37",
+                       "areaname": "越南"
+                       },
+                       {
+                       "0": "\r\n38",
+                       "1": "塞尔维亚",
+                       "areaid": "38",
+                       "areaname": "塞尔维亚"
+                       },
+                       {
+                       "0": "\r\n39",
+                       "1": "哥斯达黎加",
+                       "areaid": "39",
+                       "areaname": "哥斯达黎加"
+                       },
+                       {
+                       "0": "\r\n40",
+                       "1": "南非",
+                       "areaid": "40",
+                       "areaname": "南非"
+                       },
+                       {
+                       "0": "\r\n41",
+                       "1": "罗马尼亚",
+                       "areaid": "41",
+                       "areaname": "罗马尼亚"
+                       },
+                       {
+                       "0": "\r\n42",
+                       "1": "蒙古",
+                       "areaid": "42",
+                       "areaname": "蒙古"
+                       }
+                       ],
+        "sub_cangku": [
+                       {
+                       "areaid": "1",
+                       "areaname": "北京"
+                       },
+                       {
+                       "areaid": "2",
+                       "areaname": "上海"
+                       },
+                       {
+                       "areaid": "3",
+                       "areaname": "天津"
+                       },
+                       {
+                       "areaid": "4",
+                       "areaname": "重庆"
+                       },
+                       {
+                       "areaid": "5",
+                       "areaname": "河北"
+                       },
+                       {
+                       "areaid": "6",
+                       "areaname": "山西"
+                       },
+                       {
+                       "areaid": "7",
+                       "areaname": "内蒙古"
+                       },
+                       {
+                       "areaid": "8",
+                       "areaname": "辽宁"
+                       },
+                       {
+                       "areaid": "9",
+                       "areaname": "吉林"
+                       },
+                       {
+                       "areaid": "10",
+                       "areaname": "黑龙江"
+                       },
+                       {
+                       "areaid": "11",
+                       "areaname": "江苏"
+                       },
+                       {
+                       "areaid": "12",
+                       "areaname": "浙江"
+                       },
+                       {
+                       "areaid": "13",
+                       "areaname": "安徽"
+                       },
+                       {
+                       "areaid": "14",
+                       "areaname": "福建"
+                       },
+                       {
+                       "areaid": "15",
+                       "areaname": "江西"
+                       },
+                       {
+                       "areaid": "16",
+                       "areaname": "山东"
+                       },
+                       {
+                       "areaid": "17",
+                       "areaname": "河南"
+                       },
+                       {
+                       "areaid": "18",
+                       "areaname": "湖北"
+                       },
+                       {
+                       "areaid": "19",
+                       "areaname": "湖南"
+                       },
+                       {
+                       "areaid": "20",
+                       "areaname": "广东"
+                       },
+                       {
+                       "areaid": "21",
+                       "areaname": "广西"
+                       },
+                       {
+                       "areaid": "22",
+                       "areaname": "海南"
+                       },
+                       {
+                       "areaid": "23",
+                       "areaname": "四川"
+                       },
+                       {
+                       "areaid": "24",
+                       "areaname": "贵州"
+                       },
+                       {
+                       "areaid": "25",
+                       "areaname": "云南"
+                       },
+                       {
+                       "areaid": "26",
+                       "areaname": "西藏"
+                       },
+                       {
+                       "areaid": "27",
+                       "areaname": "陕西"
+                       },
+                       {
+                       "areaid": "28",
+                       "areaname": "甘肃"
+                       },
+                       {
+                       "areaid": "29",
+                       "areaname": "青海"
+                       },
+                       {
+                       "areaid": "30",
+                       "areaname": "宁夏"
+                       },
+                       {
+                       "areaid": "31",
+                       "areaname": "新疆"
+                       },
+                       {
+                       "areaid": "32",
+                       "areaname": "台湾"
+                       },
+                       {
+                       "areaid": "33",
+                       "areaname": "香港"
+                       },
+                       {
+                       "areaid": "34",
+                       "areaname": "澳门"
+                       }
+                       ],
+        "ifrefresh": 0,
+        "sub_order": [
+                      {
+                      "id": 0,
+                      "name": "不限"
+                      },
+                      {
+                      "id": 3,
+                      "name": "现货"
+                      },
+                      {
+                      "id": 2,
+                      "name": "期货"
+                      }
+                      ]
+    }
+}
